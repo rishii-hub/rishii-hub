@@ -113,9 +113,6 @@ An M/M/1 queuing-theory simulator served over HTTP, predicting wait times and qu
   <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rishii-hub&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,shell&theme=transparent&hide_border=true&card_width=320" alt="languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rishii-hub&hide_border=true&background=00000000&ring=006AFF&fire=006AFF&currStreakLabel=006AFF&sideNums=417E87&currStreakNum=417E87&dates=417E87&sideLabels=417E87&stroke=417E87" height="170" alt="streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishii-hub&custom_title=Contribution%20Graph&bg_color=00000000&color=417E87&title_color=006AFF&line=006AFF&point=0579C3&area=true&area_color=006AFF&hide_border=true&radius=8" width="98%" alt="contribution graph"/>
