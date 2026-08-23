@@ -109,13 +109,24 @@ An M/M/1 queuing-theory simulator served over HTTP, predicting wait times and qu
 ## 📊 The Numbers
 
 <p align="center">
-  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=rishii-hub&custom_title=rishi%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="stats"/>
-  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rishii-hub&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,shell&theme=transparent&hide_border=true&card_width=320" alt="languages"/>
+  <img
+    src="https://readme-stats-github.pages.dev/api?username=rishii-hub&theme=shadow&card_width=400"
+    width="400"
+    alt="rishii-hub's GitHub Stats"
+  />
+  <img
+    src="https://readme-stats-github.pages.dev/api/top-langs?username=rishii-hub&theme=shadow&card_width=400"
+    width="400"
+    alt="Top Languages"
+  />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishii-hub&custom_title=Contribution%20Graph&bg_color=00000000&color=417E87&title_color=006AFF&line=006AFF&point=0579C3&area=true&area_color=006AFF&hide_border=true&radius=8" width="98%" alt="contribution graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rishii-hub&custom_title=Contribution%20Graph&bg_color=00000000&color=8B7CF6&title_color=9B7CFF&line=6C63FF&point=9B7CFF&area=true&area_color=6C63FF&hide_border=true&radius=8"
+    width="98%"
+    alt="Contribution Graph"
+  />
 </p>
 
 <!-- OPTIONAL: contribution snake. Needs .github/workflows/snake.yml using Platane/snk@v3.
