@@ -15,7 +15,6 @@
 
 ## `whoami`
 
-Third-year **ECE** student at **OUTR, Bhubaneswar** who ended up writing backends instead of firmware — and stayed.
 
 Most of what I build lives in the unglamorous middle: job schedulers, spatial queries, cache layers, and the transaction boundaries that decide whether any of it is actually correct.
 
